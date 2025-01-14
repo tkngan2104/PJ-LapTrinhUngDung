@@ -1,0 +1,118 @@
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\bin\Debug\5.2_PROJECT.exe.config
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\bin\Debug\5.2_PROJECT.exe
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\bin\Debug\5.2_PROJECT.pdb
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\5.2_PROJECT.csproj.AssemblyReference.cache
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\_5._2_PROJECT.Properties.Resources.resources
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\5.2_PROJECT.csproj.GenerateResource.cache
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\5.2_PROJECT.csproj.CoreCompileInputs.cache
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\5.2_PROJECT.exe
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\5.2_PROJECT.pdb
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\_5._2_PROJECT.DANGNHAP.resources
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\WindowsFormsApp1.MENU.resources
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\WindowsFormsApp1.TRACUUTHONGTINSV.resources
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\WindowsFormsApp2.TRACUUTHONGTINGV.resources
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\WindowsFormsApp3.TRACUDANHSACHLOPHOC.resources
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\WindowsFormsApp4.TRACUUDANHSACHLOPHP.resources
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\WindowsFormsApp5.TRACUUDANHSACHHP.resources
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\WindowsFormsApp1.DONGHOCPHI.resources
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\WindowsFormsApp1.THONGTINSV.resources
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\WindowsFormsApp1.THONGTINGV.resources
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\WindowsFormsApp1.HOCPHAN.resources
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\WindowsFormsApp1.LOPHOCPHAN.resources
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\WindowsFormsApp1.KHOA.resources
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\WindowsFormsApp1.LOPHOC.resources
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\WindowsFormsApp1.CHUYENNGANH.resources
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\WindowsFormsApp1.DIEMHOCPHAN.resources
+D:\22211TT1645_BTKN\Học kì 3\5_LTUngDung\LTUD_PROJECT\5.2_PROJECT\obj\Debug\WindowsFormsApp1.DIEMRENLUYEN.resources
+D:\5.2_PROJECT\obj\Debug\5.2_PROJECT.csproj.AssemblyReference.cache
+D:\5.2_PROJECT\obj\Debug\WindowsFormsApp1.DONGHOCPHI.resources
+D:\5.2_PROJECT\obj\Debug\WindowsFormsApp1.CHUYENNGANH.resources
+D:\5.2_PROJECT\obj\Debug\WindowsFormsApp1.HOCPHAN.resources
+D:\5.2_PROJECT\obj\Debug\WindowsFormsApp1.KHOA.resources
+D:\5.2_PROJECT\obj\Debug\WindowsFormsApp1.LOPHOC.resources
+D:\5.2_PROJECT\obj\Debug\WindowsFormsApp1.LOPHOCPHAN.resources
+D:\5.2_PROJECT\obj\Debug\WindowsFormsApp1.THONGTINGV.resources
+D:\5.2_PROJECT\obj\Debug\WindowsFormsApp1.THONGTINSV.resources
+D:\5.2_PROJECT\obj\Debug\WindowsFormsApp1.DIEMHOCPHAN.resources
+D:\5.2_PROJECT\obj\Debug\WindowsFormsApp1.DIEMRENLUYEN.resources
+D:\5.2_PROJECT\obj\Debug\WindowsFormsApp5.TRACUUDANHSACHHP.resources
+D:\5.2_PROJECT\obj\Debug\WindowsFormsApp3.TRACUDANHSACHLOPHOC.resources
+D:\5.2_PROJECT\obj\Debug\WindowsFormsApp4.TRACUUDANHSACHLOPHP.resources
+D:\5.2_PROJECT\obj\Debug\WindowsFormsApp1.TRACUUTHONGTINSV.resources
+D:\5.2_PROJECT\obj\Debug\WindowsFormsApp2.TRACUUTHONGTINGV.resources
+D:\5.2_PROJECT\obj\Debug\_5._2_PROJECT.DANGNHAP.resources
+D:\5.2_PROJECT\obj\Debug\_5._2_PROJECT.Properties.Resources.resources
+D:\5.2_PROJECT\obj\Debug\WindowsFormsApp1.MENU.resources
+D:\5.2_PROJECT\obj\Debug\5.2_PROJECT.csproj.GenerateResource.cache
+D:\5.2_PROJECT\obj\Debug\5.2_PROJECT.csproj.CoreCompileInputs.cache
+D:\5.2_PROJECT\obj\Debug\5.2_PROJECT.exe
+D:\5.2_PROJECT\obj\Debug\5.2_PROJECT.pdb
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\5.2_PROJECT.csproj.AssemblyReference.cache
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\5.2_PROJECT.exe
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\5.2_PROJECT.pdb
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\bin\Debug\5.2_PROJECT.exe.config
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\bin\Debug\5.2_PROJECT.exe
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\bin\Debug\5.2_PROJECT.pdb
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\WindowsFormsApp1.DONGHOCPHI.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\WindowsFormsApp1.CHUYENNGANH.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\WindowsFormsApp1.HOCPHAN.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\WindowsFormsApp1.KHOA.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\WindowsFormsApp1.LOPHOC.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\WindowsFormsApp1.LOPHOCPHAN.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\WindowsFormsApp1.THONGTINGV.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\WindowsFormsApp1.THONGTINSV.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\WindowsFormsApp1.DIEMHOCPHAN.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\WindowsFormsApp1.DIEMRENLUYEN.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\WindowsFormsApp5.TRACUUDANHSACHHP.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\WindowsFormsApp3.TRACUDANHSACHLOPHOC.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\WindowsFormsApp4.TRACUUDANHSACHLOPHP.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\WindowsFormsApp1.TRACUUTHONGTINSV.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\WindowsFormsApp2.TRACUUTHONGTINGV.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\_5._2_PROJECT.DANGNHAP.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\_5._2_PROJECT.Properties.Resources.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\WindowsFormsApp1.MENU.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\5.2_PROJECT.csproj.GenerateResource.cache
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\5.2_PROJECT.csproj.CoreCompileInputs.cache
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\bin\Debug\CrystalDecisions.Shared.dll
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\bin\Debug\stdole.dll
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\5.2_PROJECT.csproj.CopyComplete
+D:\5.2_PROJECT\bin\Debug\5.2_PROJECT.exe.config
+D:\5.2_PROJECT\bin\Debug\5.2_PROJECT.exe
+D:\5.2_PROJECT\bin\Debug\5.2_PROJECT.pdb
+D:\5.2_PROJECT\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\5.2_PROJECT\bin\Debug\CrystalDecisions.Shared.dll
+D:\5.2_PROJECT\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\5.2_PROJECT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\5.2_PROJECT\bin\Debug\stdole.dll
+D:\5.2_PROJECT\obj\Debug\5.2_PROJECT.csproj.CopyComplete
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\_5._2_PROJECT.TraCuu.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\_5._2_PROJECT.TraCuuKhoa.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\_5._2_PROJECT.TraCuuChuyenNganh.resources
+D:\btapcacmon\laptrinhungdung\5.2_PROJECT\obj\Debug\_5._2_PROJECT.TraCuuDiemRL.resources
